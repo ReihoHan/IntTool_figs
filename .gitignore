@@ -1,0 +1,18 @@
+# 出力（スクリプトを実行すれば再生成できるもの）
+*.csv
+*.png
+*.svg
+*.pdf
+tmp/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+#misc
+misc/
